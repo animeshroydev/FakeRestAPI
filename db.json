@@ -1,6 +1,5 @@
 {
-    "users": [
-        {
+    "users": {
         "banner": "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg",
         "photos":[
            "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg",
@@ -16,5 +15,5 @@
            "https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg"
                 ]
         }
-    ]
+    
 }
