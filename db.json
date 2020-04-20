@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+        "banner": "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg",
+        "photos":[
+           "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg",
+           "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg",
+           "https://images.pexels.com/photos/34580/pexels-photo.jpg",
+           "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg",
+           "https://images.pexels.com/photos/34600/pexels-photo.jpg",
+           "https://images.pexels.com/photos/340152/pexels-photo-340152.jpeg",
+           "https://images.pexels.com/photos/7114/laptop-mobile.jpg",
+           "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
+           "https://images.pexels.com/photos/3987066/pexels-photo-3987066.jpeg",
+           "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg",
+           "https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg"
+                ]
+        }
+    ]
+}
